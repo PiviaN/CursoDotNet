@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\4_Fundamentos\\20_Otimizacao_N8\\20_Otimizacao_N8\\APICatalogo\\APICatalogo.csproj": {}
+    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\4_Fundamentos\\20_Otimizacao_N8\\20_Otimizacao_N8\\APICatalogo\\APICatalogo.csproj": {
+    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\4_Fundamentos\\20_Otimizacao_N8\\20_Otimizacao_N8\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\4_Fundamentos\\20_Otimizacao_N8\\20_Otimizacao_N8\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\4_Fundamentos\\20_Otimizacao_N8\\20_Otimizacao_N8\\APICatalogo\\obj\\",
+        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
