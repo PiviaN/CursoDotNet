@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj": {}
+    "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj": {
+    "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj",
-        "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,11 +26,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -39,10 +39,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -83,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
