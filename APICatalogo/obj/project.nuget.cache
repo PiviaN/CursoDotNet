@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aRKhfuG9NDjWRQ8nLBEv6qu5tgSqpzI9ZjJgT1RfWr05LZh5GXFjpl8KkNqzBxiYvubB2h6YtyXjC83NqCK4sw==",
+  "dgSpecHash": "nuiPMSB9GtA3eMWyTwWVoYgyBz5NqPb7LFhDqL62aUxT05SDBi213+owi/I5TOEF0e23Pc91BBC3P3ROlbBvVQ==",
   "success": true,
-  "projectFilePath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",

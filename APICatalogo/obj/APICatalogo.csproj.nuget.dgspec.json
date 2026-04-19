@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj": {}
+    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj": {
+    "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\10_Testes_Produtos\\10_Testes_Produtos\\APICatalogo\\obj\\",
+        "outputPath": "D:\\___Cursos_Macoratti\\Curso_Web_API_NET8_Essencial\\5_Repositorio_UnitOfWork\\16_Repo_GenericFim\\16_Repo_GenericFim\\16_Repo_GenericFim\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
