@@ -1,82 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\APICatalogo\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\validations\\primeiraletramaiusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\validations\\primeiraletramaiusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\services\\meuservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\services\\meuservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\services\\imeuservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\services\\imeuservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\extensions\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\extensions\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\cursodotnet\\apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|c:\\users\\pedro\\desktop\\apicatalogo\\apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{977846CC-8D18-4386-8C20-3030FADEC0FB}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Services\\MeuServico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Services\\IMeuServico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,24 +94,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "MeuServico.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Services\\MeuServico.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Services\\MeuServico.cs",
+              "RelativeDocumentMoniker": "..\\APICatalogo\\APICatalogo\\Services\\MeuServico.cs",
               "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Services\\MeuServico.cs",
-              "RelativeToolTip": "APICatalogo\\Services\\MeuServico.cs",
+              "RelativeToolTip": "..\\APICatalogo\\APICatalogo\\Services\\MeuServico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T01:53:26.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "IMeuServico.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Services\\IMeuServico.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Services\\IMeuServico.cs",
+              "RelativeDocumentMoniker": "..\\APICatalogo\\APICatalogo\\Services\\IMeuServico.cs",
               "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Services\\IMeuServico.cs",
-              "RelativeToolTip": "APICatalogo\\Services\\IMeuServico.cs",
+              "RelativeToolTip": "..\\APICatalogo\\APICatalogo\\Services\\IMeuServico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T01:53:24.824Z"
@@ -124,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,36 +133,34 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Context\\AppDbContext.cs",
               "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T01:49:18.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T01:49:18.922Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Controllers\\CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "APICatalogo\\Controllers\\CategoriasController.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T01:49:28.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-19T01:49:28.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "PrimeiraLetraMaiusculaAttribute.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
+              "RelativeDocumentMoniker": "..\\APICatalogo\\APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
               "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
-              "RelativeToolTip": "APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
+              "RelativeToolTip": "..\\APICatalogo\\APICatalogo\\Validations\\PrimeiraLetraMaiusculaAttribute.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T01:53:32.62Z"
@@ -175,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Program.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Program.cs",
               "RelativeToolTip": "APICatalogo\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ProdutoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Repositories\\ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Repositories\\ProdutoRepository.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Repositories\\ProdutoRepository.cs",
               "RelativeToolTip": "APICatalogo\\Repositories\\ProdutoRepository.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Repositories\\ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Repositories\\ICategoriaRepository.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Repositories\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Repositories\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Repositories\\ICategoriaRepository.cs",
               "RelativeToolTip": "APICatalogo\\Repositories\\ICategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Repositories\\CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Repositories\\CategoriaRepository.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Repositories\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Repositories\\CategoriaRepository.cs",
               "RelativeToolTip": "APICatalogo\\Repositories\\CategoriaRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwCQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Models\\Produto.cs",
               "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Models\\Categoria.cs",
               "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "CustomLoggerProviderConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
               "RelativeToolTip": "APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "CustomLoggerProvider.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Logging\\CustomLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Logging\\CustomLoggerProvider.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Logging\\CustomLoggerProvider.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Logging\\CustomLoggerProvider.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Logging\\CustomLoggerProvider.cs",
               "RelativeToolTip": "APICatalogo\\Logging\\CustomLoggerProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "CustomerLogger.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Logging\\CustomerLogger.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Logging\\CustomerLogger.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Logging\\CustomerLogger.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Logging\\CustomerLogger.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Logging\\CustomerLogger.cs",
               "RelativeToolTip": "APICatalogo\\Logging\\CustomerLogger.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -281,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "ApiLoggingFilter.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Filters\\ApiLoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Filters\\ApiLoggingFilter.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Filters\\ApiLoggingFilter.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Filters\\ApiLoggingFilter.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Filters\\ApiLoggingFilter.cs",
               "RelativeToolTip": "APICatalogo\\Filters\\ApiLoggingFilter.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "ApiExceptionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Filters\\ApiExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Filters\\ApiExceptionFilter.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Filters\\ApiExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Filters\\ApiExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Filters\\ApiExceptionFilter.cs",
               "RelativeToolTip": "APICatalogo\\Filters\\ApiExceptionFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,23 +299,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ApiExceptionMiddlewareExtensions.cs",
               "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "..\\APICatalogo\\APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
               "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
-              "RelativeToolTip": "APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "..\\APICatalogo\\APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T01:50:44.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "APICatalogo\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\CursoDotNet\\APICatalogo\\Properties\\launchSettings.json",
               "RelativeToolTip": "APICatalogo\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
