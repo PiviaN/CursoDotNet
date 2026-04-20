@@ -1,4 +1,8 @@
-﻿namespace APICatalogo.Logging;
+﻿using System;
+using System.IO;
+using Microsoft.Extensions.Logging;
+
+namespace APICatalogo.Logging;
 
 public class CustomerLogger : ILogger
 {
@@ -13,7 +17,7 @@ public class CustomerLogger : ILogger
 
     public IDisposable BeginScope<TState>(TState state)
     {
-        return null;
+        return NullScope.Instance;
     }
 
     public bool IsEnabled(LogLevel logLevel)
@@ -24,25 +28,22 @@ public class CustomerLogger : ILogger
     public void Log<TState>(LogLevel logLevel, EventId eventId, TState state,
             Exception exception, Func<TState, Exception, string> formatter)
     {
-        string mensagem = $"{logLevel.ToString()}: {eventId.Id} - {formatter(state, exception)}";
-
-        EscreverTextoNoArquivo(mensagem);
+        // Compose the message and write to console instead of a hardcoded file path.
+        string mensagem = $"{logLevel}: {eventId.Id} - {formatter(state, exception)}";
+        try
+        {
+            Console.WriteLine(mensagem);
+        }
+        catch
+        {
+            // swallow any logging exceptions to avoid breaking application flow
+        }
     }
 
-    private void EscreverTextoNoArquivo(string mensagem)
+    // Lightweight no-op scope for BeginScope
+    private class NullScope : IDisposable
     {
-        string caminhoArquivoLog = @"d:\dados\log\Macoratti_Log.txt";
-        using (StreamWriter streamWriter = new StreamWriter(caminhoArquivoLog, true))
-        {
-            try
-            {
-                streamWriter.WriteLine(mensagem);
-                streamWriter.Close();
-            }
-            catch (Exception)
-            {
-                throw;
-            }
-        }
+        public static NullScope Instance { get; } = new NullScope();
+        public void Dispose() { }
     }
 }
