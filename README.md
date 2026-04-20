@@ -1,4 +1,4 @@
-Repositório para armazenar os projetos praticados durante o "Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9)"
+Projeto "ApiCatalogo" realizado durante o "Curso Web API ASP .NET Core Essencial (.NET 8 / .NET 9)"
 
 https://www.udemy.com/course/curso-web-api-asp-net-core-essencial/
 
