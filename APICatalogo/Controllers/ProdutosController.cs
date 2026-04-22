@@ -1,9 +1,11 @@
 ﻿using APICatalogo.DTOs;
 using APICatalogo.Models;
+using APICatalogo.Pagination;
 using APICatalogo.Repositories;
 using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace APICatalogo.Controllers;
 
@@ -21,40 +23,74 @@ public class ProdutosController : ControllerBase
     }
 
     [HttpGet("produtos/{id}")]
-    public ActionResult <IEnumerable<ProdutoDTO>> GetProdutosCategoria(int id)
+    public ActionResult<IEnumerable<ProdutoDTO>> GetProdutosCategoria(int id)
     {
-        var produtos = _uof.ProdutoRepository.GetProdutosPorCategoria(id);  
-        
+        var produtos = _uof.ProdutoRepository.GetProdutosPorCategoria(id);
+
         if (produtos is null)
             return NotFound();
 
+        //var destino = _mapper.Map<Destino>(origem);
         var produtosDto = _mapper.Map<IEnumerable<ProdutoDTO>>(produtos);
 
-        return Ok(produtosDto);    
+        return Ok(produtosDto);
     }
+
+    [HttpGet("pagination")]
+    public ActionResult<IEnumerable<ProdutoDTO>> Get([FromQuery]
+                                   ProdutosParameters produtosParameters)
+    {
+        var produtos = _uof.ProdutoRepository.GetProdutos(produtosParameters);
+
+        return ObterProdutos(produtos);
+    }
+
+    [HttpGet("filter/preco/pagination")]
+    public ActionResult<IEnumerable<ProdutoDTO>> GetProdutosFilterPreco([FromQuery] ProdutosFiltroPreco
+                                                                                    produtosFilterParameters)
+    {
+        var produtos = _uof.ProdutoRepository.GetProdutosFiltroPreco(produtosFilterParameters);
+        return ObterProdutos(produtos);
+    }
+    private ActionResult<IEnumerable<ProdutoDTO>> ObterProdutos(PagedList<Produto> produtos)
+    {
+        var metadata = new
+        {
+            produtos.TotalCount,
+            produtos.PageSize,
+            produtos.CurrentPage,
+            produtos.TotalPages,
+            produtos.HasNext,
+            produtos.HasPrevious
+        };
+
+        Response.Headers.Append("X-Pagination", JsonConvert.SerializeObject(metadata));
+        var produtosDto = _mapper.Map<IEnumerable<ProdutoDTO>>(produtos);
+        return Ok(produtosDto);
+    }
+
+    
 
     [HttpGet]
     public ActionResult<IEnumerable<ProdutoDTO>> Get()
     {
         var produtos = _uof.ProdutoRepository.GetAll();
         if (produtos is null)
-        {
             return NotFound();
-        }
+
         var produtosDto = _mapper.Map<IEnumerable<ProdutoDTO>>(produtos);
         return Ok(produtosDto);
     }
-
     [HttpGet("{id}", Name = "ObterProduto")]
     public ActionResult<ProdutoDTO> Get(int id)
     {
-        var produto = _uof.ProdutoRepository.Get(c=> c.ProdutoId == id);   
+        var produto = _uof.ProdutoRepository.Get(c => c.ProdutoId == id);
         if (produto is null)
         {
             return NotFound("Produto não encontrado...");
         }
         var produtoDto = _mapper.Map<ProdutoDTO>(produto);
-        return Ok(produto);
+        return Ok(produtoDto);
     }
 
     [HttpPost]
@@ -71,24 +107,24 @@ public class ProdutosController : ControllerBase
         var novoProdutoDto = _mapper.Map<ProdutoDTO>(novoProduto);
 
         return new CreatedAtRouteResult("ObterProduto",
-            new { id = novoProduto.ProdutoId }, novoProdutoDto);
+            new { id = novoProdutoDto.ProdutoId }, novoProdutoDto);
     }
 
     [HttpPatch("{id}/UpdatePartial")]
-    public ActionResult<ProdutoDTOUpdateResponse> Patch(int id, 
-        JsonPatchDocument<ProdutoDTOUpdateRequest> patchProdutoDTO)
+    public ActionResult<ProdutoDTOUpdateResponse> Patch(int id,
+        JsonPatchDocument<ProdutoDTOUpdateRequest> patchProdutoDto)
     {
-        if (patchProdutoDTO is null || id <= 0) 
+        if (patchProdutoDto == null || id <= 0)
             return BadRequest();
 
         var produto = _uof.ProdutoRepository.Get(c => c.ProdutoId == id);
 
-        if (produto is null)
+        if (produto == null)
             return NotFound();
 
         var produtoUpdateRequest = _mapper.Map<ProdutoDTOUpdateRequest>(produto);
 
-        patchProdutoDTO.ApplyTo(produtoUpdateRequest, ModelState);
+        patchProdutoDto.ApplyTo(produtoUpdateRequest, ModelState);
 
         if (!ModelState.IsValid || !TryValidateModel(produtoUpdateRequest))
             return BadRequest(ModelState);
@@ -122,7 +158,9 @@ public class ProdutosController : ControllerBase
     {
         var produto = _uof.ProdutoRepository.Get(p => p.ProdutoId == id);
         if (produto is null)
+        {
             return NotFound("Produto não encontrado...");
+        }
 
         var produtoDeletado = _uof.ProdutoRepository.Delete(produto);
         _uof.Commit();
